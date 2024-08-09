@@ -1,0 +1,15 @@
+table{
+background-color: bisque;
+}
+h2{
+    color: firebrick;
+}
+#onlyh2{
+    color: black;
+}
+.para{
+    color: cornflowerblue;
+}
+[disordered]{
+    color: antiquewhite;
+}
